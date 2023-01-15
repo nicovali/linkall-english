@@ -1,0 +1,27 @@
+---
+{"dg-publish":true,"permalink":"/tenses/","tags":["gardenEntry"]}
+---
+
+- [[Present tenses\|Present tenses]]
+	- [[Present Simple\|Present Simple]]
+	- [[Present Continuous\|Present Continuous]]
+- [[Past Tenses\|Past Tenses]]
+	- [[Past Simple\|Past Simple]]
+	- [[Past Continuous\|Past Continuous]]
+- [[Present Perfect Tenses\|Present Perfect Tenses]]
+	- [[Present Perfect (simple)\|Present Perfect (simple)]]
+	- [[Present Perfect (continuous)\|Present Perfect (continuous)]]
+- [[Past Perfect Tenses\|Past Perfect Tenses]]
+	- [[Past Perfect Tenses\|Past Perfect Tenses]]
+	- [[Past Perfect (continuous)\|Past Perfect (continuous)]]
+- [[Future Tenses\|Future Tenses]]
+	- [[Future Simple\|Future Simple]]
+	- [[Future Continuous\|Future Continuous]]
+	- [[Present Tenses used for the future\|Present Tenses used for the future]]
+	- [[Structure of 'going t' future\|Structure of 'going t' future]]
+	- [[Future Perfect (simple)\|Future Perfect (simple)]]
+	- [[Future Perfect (continuous)\|Future Perfect (continuous)]]
+- [[Passive Tenses\|Passive Tenses]]
+	- [[Passive forms\|Passive forms]]
+	- [[Past Passive Forms\|Past Passive Forms]]
+	- 
